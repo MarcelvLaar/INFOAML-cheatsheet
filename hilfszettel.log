@@ -1,4 +1,4 @@
-This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.12)  8 DEC 2025 14:28
+This is pdfTeX, Version 3.141592653-2.6-1.40.27 (TeX Live 2025) (preloaded format=pdflatex 2025.3.12)  10 DEC 2025 19:01
 entering extended mode
  restricted \write18 enabled.
  file:line:error style messages enabled.
@@ -1403,57 +1403,87 @@ LaTeX Font Info:    Redeclaring math symbol \backepsilon on input line 265.
 \pgfdecorationsegmentlength=\dimen305
 )
 \tikz@lib@dec@box=\box143
-) (/opt/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex))) (./hilfszettel.aux (./inhalt/def.aux))
+) (/opt/texlive/2025/texmf-dist/tex/generic/pgf/libraries/decorations/pgflibrarydecorations.pathmorphing.code.tex))) (/opt/texlive/2025/texmf-dist/tex/latex/doublestroke/dsfont.sty
+Package: dsfont 1995/08/01 v0.1 Double stroke roman fonts
+) (./hilfszettel.aux (./inhalt/def.aux)
+\c@algpx@indentEndPage-0@totc=\count363
+\c@algpx@indentEndPage-1@totc=\count364
+\c@algpx@indentEndPage-2@totc=\count365
+\c@algpx@indentEndPage-3@totc=\count366
+\c@algpx@indentEndPage-4@totc=\count367
+\c@algpx@indentEndPage-5@totc=\count368
+\c@algpx@indentEndCoordIndex-4@totc=\count369
+\c@algpx@indentEndPage-6@totc=\count370
+\c@algpx@indentEndPage-7@totc=\count371
+\c@algpx@indentEndPage-8@totc=\count372
+\c@algpx@indentEndCoordIndex-7@totc=\count373
+\c@algpx@indentEndPage-9@totc=\count374
+\c@algpx@indentEndPage-10@totc=\count375
+\c@algpx@indentEndPage-11@totc=\count376
+\c@algpx@indentEndPage-12@totc=\count377
+\c@algpx@indentEndPage-13@totc=\count378
+\c@algpx@indentEndPage-14@totc=\count379
+\c@algpx@indentEndPage-15@totc=\count380
+\c@algpx@indentEndPage-16@totc=\count381
+\c@algpx@indentEndPage-17@totc=\count382
+\c@algpx@indentEndPage-18@totc=\count383
+\c@algpx@indentEndCoordIndex-17@totc=\count384
+\c@algpx@indentEndPage-19@totc=\count385
+\c@algpx@indentEndPage-20@totc=\count386
+\c@algpx@indentEndCoordIndex-16@totc=\count387
+\c@algpx@indentEndPage-21@totc=\count388
+\c@algpx@indentEndPage-22@totc=\count389
+)
 \openout1 = `hilfszettel.aux'.
 
-LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 23.
-LaTeX Font Info:    Trying to load font information for OML+jkp on input line 23.
+LaTeX Font Info:    Checking defaults for OML/jkp/m/it on input line 25.
+LaTeX Font Info:    Trying to load font information for OML+jkp on input line 25.
  (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/omljkp.fd
 File: omljkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for OMS+jkp on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMS/jkp/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for OMS+jkp on input line 25.
  (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/omsjkp.fd
 File: omsjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 23.
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for OMX+jkp on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 25.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for OMX/jkp/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for OMX+jkp on input line 25.
  (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/omxjkp.fd
 File: omxjkp.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for U+jkpexa on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for U/jkpexa/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for U+jkpexa on input line 25.
  (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/ujkpexa.fd
 File: ujkpexa.fd 2006/08/15 v1.0
 )
-LaTeX Font Info:    ... okay on input line 23.
-LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 23.
-LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
+LaTeX Font Info:    Checking defaults for LY1/ptm/m/n on input line 25.
+LaTeX Font Info:    Trying to load font information for LY1+ptm on input line 25.
  (/opt/texlive/2025/texmf-dist/tex/latex/ly1/ly1ptm.fd
 File: ly1ptm.fd 2001/02/01 font definitions for LY1/ptm using Berry names.
 )
-LaTeX Font Info:    ... okay on input line 23.
+LaTeX Font Info:    ... okay on input line 25.
  (/opt/texlive/2025/texmf-dist/tex/context/base/mkii/supp-pdf.mkii
 [Loading MPS to PDF converter (version 2006.09.02).]
-\scratchcounter=\count363
+\scratchcounter=\count390
 \scratchdimen=\dimen306
 \scratchbox=\box144
-\nofMPsegments=\count364
-\nofMParguments=\count365
+\nofMPsegments=\count391
+\nofMParguments=\count392
 \everyMPshowfont=\toks46
-\MPscratchCnt=\count366
+\MPscratchCnt=\count393
 \MPscratchDim=\dimen307
-\MPnumerator=\count367
-\makeMPintoPDFobject=\count368
+\MPnumerator=\count394
+\makeMPintoPDFobject=\count395
 \everyMPtoPDFconversion=\toks47
 ) (/opt/texlive/2025/texmf-dist/tex/latex/epstopdf-pkg/epstopdf-base.sty
 Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
@@ -1498,20 +1528,20 @@ File: epstopdf-sys.cfg 2010/07/13 v1.3 Configuration of (r)epstopdf for TeX Live
 Package microtype Info: Patching varwidth to enable character protrusion.
 \MT@vwid@leftmargin=\dimen308
 \MT@vwid@rightmargin=\dimen309
-LaTeX Info: Redefining \microtypecontext on input line 23.
-Package microtype Info: Applying patch `item' on input line 23.
-Package microtype Info: Applying patch `toc' on input line 23.
-Package microtype Info: Applying patch `eqnum' on input line 23.
-Package microtype Info: Applying patch `footnote' on input line 23.
-Package microtype Info: Applying patch `verbatim' on input line 23.
-LaTeX Info: Redefining \microtypesetup on input line 23.
+LaTeX Info: Redefining \microtypecontext on input line 25.
+Package microtype Info: Applying patch `item' on input line 25.
+Package microtype Info: Applying patch `toc' on input line 25.
+Package microtype Info: Applying patch `eqnum' on input line 25.
+Package microtype Info: Applying patch `footnote' on input line 25.
+Package microtype Info: Applying patch `verbatim' on input line 25.
+LaTeX Info: Redefining \microtypesetup on input line 25.
 Package microtype Info: Generating PDF output.
 Package microtype Info: Character protrusion enabled (level 2).
 Package microtype Info: Using default protrusion set `alltext'.
 Package microtype Info: Automatic font expansion enabled (level 2),
 (microtype)             stretch: 20, shrink: 20, step: 1, non-selected.
 Package microtype Info: Using default expansion set `alltext-nott'.
-LaTeX Info: Redefining \showhyphens on input line 23.
+LaTeX Info: Redefining \showhyphens on input line 25.
 Package microtype Info: No adjustment of tracking.
 Package microtype Info: No adjustment of interword spacing.
 Package microtype Info: No adjustment of character kerning.
@@ -1534,55 +1564,220 @@ Package pdflscape Info: Auto-detected driver: pdftex on input line 81.
 \pgf@layerbox@background=\box145
 \pgf@layerboxsaved@background=\box146
 )
-LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on input line 29.
+LaTeX Font Info:    Trying to load font information for T1+SourceSansPro-TLF on input line 30.
  (/opt/texlive/2025/texmf-dist/tex/latex/sourcesanspro/T1SourceSansPro-TLF.fd
 File: T1SourceSansPro-TLF.fd 2020/01/19 (autoinst) Font definitions for T1/SourceSansPro-TLF.
 )
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 29.
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 30.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 8.0pt on input line 29.
+(Font)              scaled to size 8.0pt on input line 30.
 Package microtype Info: Loading generic protrusion settings for font family
 (microtype)             `SourceSansPro-TLF' (encoding: T1).
 (microtype)             For optimal results, create family-specific settings.
 (microtype)             See the microtype manual for details.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 29.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 8.0pt on input line 29.
-Package mdframed Info: Not enough space on this page on input line 29.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
-(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 30.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
-(Font)              scaled to size 9.0pt on input line 30.
-LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
 (Font)              `T1/SourceSansPro-TLF/bold/n' on input line 30.
 LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
-(Font)              scaled to size 9.0pt on input line 30.
- [1
+(Font)              scaled to size 8.0pt on input line 30.
+Package mdframed Info: Not enough space on this page on input line 30.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/m/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/regular/n' on input line 31.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/regular/n' will be
+(Font)              scaled to size 9.0pt on input line 31.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/b/n' aliased to
+(Font)              `T1/SourceSansPro-TLF/bold/n' on input line 31.
+LaTeX Font Info:    Font shape `T1/SourceSansPro-TLF/bold/n' will be
+(Font)              scaled to size 9.0pt on input line 31.
+LaTeX Font Info:    Trying to load font information for TS1+jkp on input line 33.
+ (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/ts1jkp.fd
+File: ts1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for TS1/jkp.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `jkp' (encoding: TS1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for OT1+jkp on input line 35.
+ (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/ot1jkp.fd
+File: ot1jkp.fd 2007/08/30 Fontinst v1.928 font definitions for OT1/jkp.
+)
+Package microtype Info: Loading generic protrusion settings for font family
+(microtype)             `jkp' (encoding: OT1).
+(microtype)             For optimal results, create family-specific settings.
+(microtype)             See the microtype manual for details.
+LaTeX Font Info:    Trying to load font information for U+jkpmia on input line 35.
+ (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/ujkpmia.fd
+File: ujkpmia.fd 2006/08/15 v1.0
+)
+LaTeX Font Info:    Trying to load font information for U+msa on input line 35.
+ (/opt/texlive/2025/texmf-dist/tex/latex/amsfonts/umsa.fd
+File: umsa.fd 2013/01/14 v3.01 AMS symbols A
+) (/opt/texlive/2025/texmf-dist/tex/latex/microtype/mt-msa.cfg
+File: mt-msa.cfg 2006/02/04 v1.1 microtype config. file: AMS symbols (a) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+msb on input line 35.
+ (/opt/texlive/2025/texmf-dist/tex/latex/amsfonts/umsb.fd
+File: umsb.fd 2013/01/14 v3.01 AMS symbols B
+) (/opt/texlive/2025/texmf-dist/tex/latex/microtype/mt-msb.cfg
+File: mt-msb.cfg 2005/06/01 v1.0 microtype config. file: AMS symbols (b) (RS)
+)
+LaTeX Font Info:    Trying to load font information for U+jkpsyc on input line 35.
+ (/opt/texlive/2025/texmf-dist/tex/latex/kpfonts/ujkpsyc.fd
+File: ujkpsyc.fd 2006/08/15 v1.0
+)
+Overfull \hbox (46.19179pt too wide) detected at line 76
+[][][] \OT1/jkp/m/n/9 = []
+ []
+
+\c@algpx@indentEndPage-0=\count396
+\c@algpx@indentEndPage-1=\count397
+\c@algpx@indentEndPage-2=\count398
+\c@algpx@indentEndPage-3=\count399
+
+Underfull \hbox (badness 7344) in paragraph at lines 171--172
+[]\T1/jkp/m/n/9 (+20) Generate an episode fol-low-ing $[]\OML/jkp/m/it/9 ^^Y$[]\T1/jkp/m/n/9 (+20) :
+ []
+
+
+Underfull \hbox (badness 5359) detected at line 172
+[]\T1/jkp/m/n/9 (+20) Generate an episode fol-low-ing $[]\OML/jkp/m/it/9 ^^Y$[]\T1/jkp/m/n/9 (+20) :
+ []
+
+\c@algpx@indentEndPage-4=\count400
+\c@algpx@indentEndPage-5=\count401
+
+Underfull \hbox (badness 10000) in paragraph at lines 176--177
+[][]\T1/jkp/b/n/9 (+20) if []$[]\OML/jkp/m/it/9 S[]$[] \T1/jkp/m/n/9 (+20) does not ap-pear in
+ []
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 177.
+
+
+Package varwidth Warning: Failed to reprocess entire contents on input line 177.
+
+\c@algpx@indentEndCoordIndex-4=\count402
+\c@algpx@indentEndPage-6=\count403
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+[]\T1/jkp/m/n/9 (+20) Generate an episode
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 218--219
+\T1/jkp/m/n/9 (+20) from $[]\OML/jkp/m/it/9 S[]; A[]$[] \T1/jkp/m/n/9 (+20) fol-low-ing $[]\OML/jkp/m/it/9 ^^Y$[]\T1/jkp/m/n/9 (+20) :
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 219
+\T1/jkp/m/n/9 (+20) from $[]\OML/jkp/m/it/9 S[]; A[]$[] \T1/jkp/m/n/9 (+20) fol-low-ing $[]\OML/jkp/m/it/9 ^^Y$[]\T1/jkp/m/n/9 (+20) :
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 219
+[]\T1/jkp/m/n/9 (+20) Generate an episode
+ []
+
+\c@algpx@indentEndPage-7=\count404
+\c@algpx@indentEndPage-8=\count405
+
+Underfull \hbox (badness 7221) in paragraph at lines 222--223
+[][]\T1/jkp/b/n/9 (+20) if $[]\OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S[]; A[]\OT1/jkp/m/n/9 (+20) )$[] \T1/jkp/m/n/9 (+20) does not ap-pear in
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 222--223
+[]\OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S[]; A[]\OT1/jkp/m/n/9 (+20) )\OML/jkp/m/it/9 ; \OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S[]; A[]\OT1/jkp/m/n/9 (+20) )\OML/jkp/m/it/9 ; [] ; \OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S[]; A[]\OT1/jkp/m/n/9 (+20) )$[]
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 224--225
+[]$[]\OML/jkp/m/it/9 Q\OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S[]; A[]\OT1/jkp/m/n/9 (+20) ) \OMS/jkp/m/n/9  $[]
+ []
+
+
+Underfull \hbox (badness 10000) detected at line 225
+[]$[]\OML/jkp/m/it/9 Q\OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S[]; A[]\OT1/jkp/m/n/9 (+20) ) \OMS/jkp/m/n/9  $[]
+ []
+
+\c@algpx@indentEndCoordIndex-7=\count406
+
+Underfull \hbox (badness 10000) in paragraph at lines 243--245
+
+ []
+
+\c@algpx@indentEndPage-9=\count407
+\c@algpx@indentEndPage-10=\count408
+\c@algpx@indentEndPage-11=\count409
+\c@algpx@indentEndPage-12=\count410
+[1
 
 
 
 
-{/opt/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}] (./hilfszettel.aux (./inhalt/def.aux))
+{/opt/texlive/2025/texmf-var/fonts/map/pdftex/updmap/pdftex.map}{/opt/texlive/2025/texmf-dist/fonts/enc/dvips/sourcesanspro/a_emkxm5.enc}{/opt/texlive/2025/texmf-dist/fonts/enc/dvips/base/8r.enc}{/opt/texlive/2025/texmf-dist/fonts/enc/dvips/kpfonts/kpfonts-expert.enc}]
+\c@algpx@indentEndPage-13=\count411
+\c@algpx@indentEndPage-14=\count412
+
+Underfull \hbox (badness 10000) in paragraph at lines 331--332
+[]$[]\OML/jkp/m/it/9 Q\OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S; A\OT1/jkp/m/n/9 (+20) ) \OMS/jkp/m/n/9   \OML/jkp/m/it/9 Q\OT1/jkp/m/n/9 (+20) (\OML/jkp/m/it/9 S; A\OT1/jkp/m/n/9 (+20) ) + \OML/jkp/m/it/9 \OT1/jkp/m/n/9 (+20) [\OML/jkp/m/it/9 R \OT1/jkp/m/n/9 (+20) +
+ []
+
+
+Overfull \hbox (13.26077pt too wide) detected at line 341
+[][]\OML/jkp/m/it/9 Q\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 S; A\OT1/jkp/m/n/9 ) \OMS/jkp/m/n/9   \OML/jkp/m/it/9 Q\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 S; A\OT1/jkp/m/n/9 ) + \OML/jkp/m/it/9 \OT1/jkp/m/n/9 [\OML/jkp/m/it/9 R[] \OT1/jkp/m/n/9 + \OML/jkp/m/it/9 ^^Mmax[]\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 Q[]; a\OT1/jkp/m/n/9 ) \OMS/jkp/m/n/9 ^^@ \OML/jkp/m/it/9 Q\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 S[]; A[]\OT1/jkp/m/n/9 )]
+ []
+
+\c@algpx@indentEndPage-15=\count413
+\c@algpx@indentEndPage-16=\count414
+\c@algpx@indentEndPage-17=\count415
+\c@algpx@indentEndPage-18=\count416
+\c@algpx@indentEndCoordIndex-17=\count417
+\c@algpx@indentEndPage-19=\count418
+\c@algpx@indentEndPage-20=\count419
+\c@algpx@indentEndCoordIndex-16=\count420
+
+Overfull \hbox (65.71515pt too wide) detected at line 464
+[][]\OML/jkp/m/it/9 V[]\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 S\OT1/jkp/m/n/9 ) \OMS/jkp/m/n/9   \OML/jkp/m/it/9 V[]\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 S\OT1/jkp/m/n/9 ) + \OML/jkp/m/it/9  \OMS/jkp/m/n/9 ^^C \OT1/jkp/m/n/9 ((\OML/jkp/m/it/9 R[] \OT1/jkp/m/n/9 + \OML/jkp/m/it/9 ^^M \OMS/jkp/m/n/9 ^^C \OML/jkp/m/it/9 R[] \OT1/jkp/m/n/9 + \OML/jkp/m/it/9 ^^M[] \OMS/jkp/m/n/9 ^^C \OML/jkp/m/it/9 R[]\OT1/jkp/m/n/9 ) + \OML/jkp/m/it/9 ^^M[] \OMS/jkp/m/n/9 ^^C \OML/jkp/m/it/9 V[]\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 T\OT1/jkp/m/n/9 ) \OMS/jkp/m/n/9 ^^@ \OML/jkp/m/it/9 V[]\OT1/jkp/m/n/9 (\OML/jkp/m/it/9 S\OT1/jkp/m/n/9 ))
+ []
+
+LaTeX Font Info:    Trying to load font information for U+dsrom on input line 474.
+(/opt/texlive/2025/texmf-dist/tex/latex/doublestroke/Udsrom.fd
+File: Udsrom.fd 1995/08/01 v0.1 Double stroke roman font definitions
+)
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsrom/m/n/9'
+(microtype)             (new value: 9.0pt) on input line 474.
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsrom/m/n/7.6'
+(microtype)             (new value: 7.6pt) on input line 474.
+Package microtype Info: Fixing zero \fontdimen 6 for font `U/dsrom/m/n/6'
+(microtype)             (new value: 6.0pt) on input line 474.
+
+Underfull \hbox (badness 10000) in paragraph at lines 475--479
+
+ []
+
+\c@algpx@indentEndPage-21=\count421
+[2]
+\c@algpx@indentEndPage-22=\count422
+ [3] (./hilfszettel.aux (./inhalt/def.aux))
  ***********
 LaTeX2e <2024-11-01> patch level 2
 L3 programming layer <2025-01-18>
  ***********
  ) 
 Here is how much of TeX's memory you used:
- 25959 strings out of 473190
- 545885 string characters out of 5691319
- 978530 words of memory out of 5000000
- 48667 multiletter control sequences out of 15000+600000
- 616801 words of font info for 67 fonts, out of 8000000 for 9000
+ 28714 strings out of 473190
+ 599958 string characters out of 5691319
+ 1204143 words of memory out of 5000000
+ 51012 multiletter control sequences out of 15000+600000
+ 732243 words of font info for 386 fonts, out of 8000000 for 9000
  1141 hyphenation exceptions out of 8191
- 102i,10n,111p,1079b,1115s stack positions out of 10000i,1000n,20000p,200000b,200000s
-</opt/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></opt/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb>
-Output written on hilfszettel.pdf (1 page, 117023 bytes).
+ 102i,15n,111p,1079b,1221s stack positions out of 10000i,1000n,20000p,200000b,200000s
+</opt/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Bold.pfb></opt/texlive/2025/texmf-dist/fonts/type1/adobe/sourcesanspro/SourceSansPro-Regular.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/doublestroke/dsrom8.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpbn8a.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpbne.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpex.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpmi.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpmia.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpmit8a.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpmn8a.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpmne.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpsy.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/kpfonts/jkpsyc.pfb></opt/texlive/2025/texmf-dist/fonts/type1/public/amsfonts/symbols/msbm10.pfb>
+Output written on hilfszettel.pdf (3 pages, 239843 bytes).
 PDF statistics:
- 22 PDF objects out of 1000 (max. 8388607)
- 14 compressed objects within 1 object stream
+ 90 PDF objects out of 1000 (max. 8388607)
+ 56 compressed objects within 1 object stream
  0 named destinations out of 1000 (max. 500000)
- 20493 words of extra memory for PDF output out of 20736 (max. 10000000)
+ 98317 words of extra memory for PDF output out of 106986 (max. 10000000)
 
